@@ -2,7 +2,7 @@
 
 ## Project Preview
 
-Click on screenshot.png to view the project screenshot.
+Click on [Project Screenshot](screenshot.png) to view the project screenshot.
 
 A simple and responsive Random Password Generator built using HTML, CSS, and JavaScript.
 
